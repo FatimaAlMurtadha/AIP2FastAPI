@@ -1,16 +1,2 @@
 [
-  {
-    "id": "56a17537-fefe-409c-af47-b4c8c2d57b23",
-    "title": "Issue one",
-    "description": "This is a test issue",
-    "priority": "medium",
-    "status": "open"
-  },
-  {
-    "id": "33142e02-f054-4d3b-9892-a03b283d9889",
-    "title": "Issue two",
-    "description": "This is another test issue",
-    "priority": "high",
-    "status": "open"
-  }
-]
+  
