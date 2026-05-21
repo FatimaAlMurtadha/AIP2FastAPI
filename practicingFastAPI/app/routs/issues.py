@@ -1,6 +1,6 @@
 import uuid # since we don't have db
 from fastapi import APIRouter, HTTPException, status
-from app.schemas import IssueCreate, IssueOut, IssueUpdate, IssueStatus
+from app.schemas import IssueCreate, IssueOut, IssueStatus
 from app.storage import load_data, save_data
 
 router = APIRouter(prefix="/api/v1/issues", tags=["issues"])
